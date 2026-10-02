@@ -1,6 +1,8 @@
 venv/
 __pycache__/
+.claude
+.claude/
+.claude/worktrees
+.claude/worktrees/
 chrome-profile/
 chrome-profile-throwaway/
-*.prepatch.bak
-*.patched
