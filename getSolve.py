@@ -2,16 +2,16 @@ import Solve
 
 # Solve ReCaptcha
 result = Solve.ReCaptcha(
-    '6LfEaFkUAAAAAGnIJMG983t2JyYg0McK4CUuRAdk', # siteKey
-    'https://www.up-4ever.net/' # URL Website
+    '6Lf26sUnAAAAAIKLuWNYgRsFUfmI-3Lex3xT5N-s', # siteKey
+    'https://2captcha.com/demo/recaptcha-v2-enterprise' # URL Website
 )
 print(result)
 
 
 
-# Solve HCaptcha
+# # Solve HCaptcha
 # result = Solve.HCaptcha(
-#     '4c672d35-0701-42b2-88c3-78380b0db560', # siteKey
-#     'https://discord.com/' # URL Website
+#     'a5f74b19-9e45-40e0-b45d-47ff91b7a6c2', # siteKey
+#     'https://accounts.hcaptcha.com/demo' # URL Website
 # )
 # print(result)

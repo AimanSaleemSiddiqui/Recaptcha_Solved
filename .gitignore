@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+chrome-profile/
+chrome-profile-throwaway/
+*.prepatch.bak
+*.patched
